@@ -9,3 +9,7 @@ This Repository contains all of my course works of Pattern Recognition.
 4. Linear Regression Model Implementation
 5. KNN Model Implementation
 6. Naive Byes Implementation
+
+### Resources and Tools
+1. Google Colab
+2. Datasets - Diabates, Boston_House_Prices
